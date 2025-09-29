@@ -161,5 +161,5 @@ footer {
 @media(max-width: 768px) {
   nav ul { flex-direction: column; align-items: center; }
   .card-container { flex-direction: column; align-items: center; }
-  .hero h2 { font-size: 28px; }
+  .hero h2 { font-size: 100px; }
 }
