@@ -4,7 +4,7 @@ name: Deploy DevOps Website
 on:
   push:
     branches:
-      - main
+      - feature
 
 jobs:
   build-and-deploy:
