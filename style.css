@@ -7,7 +7,7 @@
 body {
   font-family: 'Poppins', sans-serif;
   background: #f9f9f9;
-  color: #3333;
+  color: #111;
   scroll-behavior: smooth;
 }
 .container {
@@ -40,7 +40,7 @@ nav ul {
 nav a {
   color: #fff;
   text-decoration: none;
-  font-weight: 500;
+  font-weight: 1000;
   transition: color 0.3s;
 }
 nav a:hover {
