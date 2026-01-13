@@ -19,8 +19,7 @@ jobs:
     - name: Setup Node.js
       uses: actions/setup-node@v3
       with:
-        node-version: '25'
-        jave-version: '17'
+        node-version: '20'
 
     # 3. (Optional) Install dependencies if you use npm/build tools
     #- name: Install dependencies
